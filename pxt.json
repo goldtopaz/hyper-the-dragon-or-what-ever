@@ -1,6 +1,6 @@
 {
     "name": "hyper the dragon the game cus I'm running out of names for this project",
-    "version": "5.1.0",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
